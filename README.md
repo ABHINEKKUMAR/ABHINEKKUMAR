@@ -1,9 +1,11 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Abhinek Kumar Agarwal</h1>
+<h2 align="center">I am working as a Project Associate 1 at CSIR-CIMFR with 1.5 years of experience.</h2>
 <h3 align="center">"From every bug fixed to every system optimized, you are shaping the future. Stay curious, stay persistent, and keep coding your dreams into reality!"</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <!-- Add your contact details or social media links here -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
