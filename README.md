@@ -162,7 +162,7 @@ IoT-based smart sprinkler system that automatically detects vehicles and activat
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:abhinekagarwal2512@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
 
