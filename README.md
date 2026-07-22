@@ -1,34 +1,185 @@
-## Hi there 👋
-<h1 align="center">Hi 👋, I'm Abhinek Kumar Agarwal</h1>
-<h2 align="center">I am working as a Project Associate 2 at CSIR-CIMFR with 2.5years of experience.</h2>
-<h3 align="center">"From every bug fixed to every system optimized, you are shaping the future. Stay curious, stay persistent, and keep coding your dreams into reality!"</h3>
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <!-- Add your contact details or social media links here -->
+# Hi 👋 I'm Abhinek Kumar Agarwal
+
+### Project Associate-II | Full Stack Developer | AI & Machine Learning Enthusiast
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=2E86C1&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+Python;AI+%26+Machine+Learning+Enthusiast;Computer+Vision+Developer;Always+Learning+New+Technologies" />
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I am a **Project Associate-II at CSIR-CIMFR** with **2.5+ years of professional experience** in **Full Stack Web Development, Python Programming, AI, Machine Learning, and Computer Vision**.
+
+I enjoy building scalable web applications, intelligent AI solutions, and modern user interfaces. I am passionate about solving real-world problems using software engineering and continuously improving my skills in emerging technologies.
+
+- 💼 Project Associate-II @ **CSIR-CIMFR**
+- 🌱 Currently learning **Advanced AI, Machine Learning, Deep Learning & System Design**
+- 💻 Experienced in **React, Node.js, Express.js, Python, Django**
+- 🤖 Interested in **Computer Vision, Generative AI & Large Language Models**
+- 🚀 Building AI-powered Web Applications
+- 🎯 Goal: Become an SDE-II / AI Engineer
+
+---
+
+# 🚀 Tech Stack
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,php" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### Frontend
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinekkumar&show_icons=true&locale=en&layout=compact" alt="abhinekkumar" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,bootstrap,tailwind" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinekkumar&show_icons=true&locale=en" alt="abhinekkumar" /></p>
+### Backend
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhinekkumar&" alt="abhinekkumar" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django" />
+</p>
 
+### Database
 
-<!--
-**ABHINEKKUMAR/ABHINEKKUMAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+</p>
 
-Here are some ideas to get you started:
+### AI / ML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
+
+- Scikit-Learn
+- Pandas
+- NumPy
+- Matplotlib
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,figma,vercel,heroku" />
+</p>
+
+---
+
+# 💼 Professional Experience
+
+### Project Associate-II
+**CSIR – Central Institute of Mining and Fuel Research (CSIR-CIMFR)**
+
+**Responsibilities**
+
+- Developed full-stack web applications.
+- Worked on AI & Machine Learning projects.
+- Built Computer Vision solutions.
+- Designed responsive React applications.
+- Developed REST APIs using Node.js & Express.
+- Worked on Python automation.
+- Optimized application performance.
+- Collaborated with multidisciplinary teams.
+
+---
+
+# 🚀 Featured Projects
+
+### 📚 Book Management Platform
+
+- React.js
+- Next.js
+- Node.js
+- MongoDB
+- REST APIs
+
+A modern book management system featuring authentication, dashboards, book management, reviews, and admin functionalities.
+
+---
+
+### 🤖 Iron Ore Prediction using AI
+
+Computer Vision-based machine learning model for ore quality prediction using image processing and deep learning.
+
+---
+
+### 🌐 Dynamic CMS Platform
+
+A scalable CMS developed using modern web technologies with authentication, dashboards, role-based access, and content management.
+
+---
+
+### 💧 Smart Sprinkler Automation
+
+IoT-based smart sprinkler system that automatically detects vehicles and activates water sprinklers using sensors.
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abhinekkumar&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinekkumar&layout=compact&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinekkumar&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=abhinekkumar&theme=algolia&row=2&column=4"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinekkumar&theme=react-dark"/>
+
+</p>
+
+---
+
+# 🌐 Connect with Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/abhinek-agarwal-617a42181">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> *"Great software is built through continuous learning, thoughtful design, and persistence. Every challenge is an opportunity to create something impactful."*
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile!
+
+⭐ Feel free to explore my repositories and connect with me.
+
+</div>
