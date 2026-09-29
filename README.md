@@ -21,7 +21,7 @@ I enjoy building scalable web applications, intelligent AI solutions, and modern
 - 💻 Experienced in **React, Node.js, Express.js, Python, Django**
 - 🤖 Interested in **Computer Vision, Generative AI & Large Language Models**
 - 🚀 Building AI-powered Web Applications
-- 🎯 Goal: Become an SDE-II / AI Engineer
+  
 
 ---
 
